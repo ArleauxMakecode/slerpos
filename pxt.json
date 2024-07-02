@@ -8,7 +8,8 @@
         "radio-broadcast": "*",
         "audio-recording": "*",
         "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.3",
-        "Soroban": "github:aorczyk/soroban#v1.0.11"
+        "Soroban": "github:aorczyk/soroban#v1.0.11",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
     },
     "files": [
         "main.blocks",
